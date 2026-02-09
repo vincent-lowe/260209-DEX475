@@ -1,22 +1,22 @@
-#### DEX475 - API Design - YYMMDD - TZ
+#### DEX475 - API Design - 260209 - PST
 
-Instructor Name: 
+Instructor Name: Vincent Lowe
 
-instructor@salesforce.com
+vlowe@salesforce.com
 
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:			XXXXXX
+Attendance Code:			PKEDD0
 
 Salesforce Mimeo:		     	https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:			USZZZZZZZZZZ
+eBook Redemption Key:			USQQDPJ0HMWB
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:			https://www.research.net/r/trailheadacademy
+Survey Link:				https://www.research.net/r/trailheadacademy
 
-Survey ID:				XXXXXXX
+Survey ID:				TASM-041624
 
 -------------------------------------------------------------------------------------------------------------------
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX475
@@ -47,7 +47,7 @@ Classroom Playlist
 
 |Track Title|Artist|Notes|
 |-----------|------|-----|
-
+|Hill Street Blues|Mike Post|TV theme|
 
 
 
