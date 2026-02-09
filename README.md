@@ -51,6 +51,7 @@ Classroom Playlist
 |Dos Oruguitas|Steven Joseph|from the movie Encanto|
 |Sixteen Tons|Geoff Castellucci|Every voice on the track is Geoff|
 |Walking Stick|Leon Redbone||
+|Analog Hero|Mark Erelli|Mark wrote this about his dad|
 
 
 
