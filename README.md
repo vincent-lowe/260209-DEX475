@@ -53,7 +53,7 @@ Classroom Playlist
 |Walking Stick|Leon Redbone||
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
 |My Rifle, Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
-
+|City of New Orleans|Arlo Guthrie||
 
 
 
