@@ -60,4 +60,4 @@ Classroom Playlist
 |Can't Find My Way Home|Bonnie Raitt|Steve Winwood cover|
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
 |The Final Countdown|Europe||
-
+|Crazy He Calls Me|Billie Holiday||
