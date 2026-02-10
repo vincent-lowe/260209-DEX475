@@ -58,5 +58,6 @@ Classroom Playlist
 |City of New Orleans|Arlo Guthrie||
 |Just Breathe|Willie Nelson feat. Lukas Nelson|cover of Trent Reznor song|
 |Can't Find My Way Home|Bonnie Raitt|Steve Winwood cover|
-
+|Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
+|The Final Countdown|Europe||
 
