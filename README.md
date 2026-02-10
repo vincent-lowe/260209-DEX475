@@ -52,7 +52,7 @@ Classroom Playlist
 |Sixteen Tons|Geoff Castellucci|Every voice on the track is Geoff|
 |Walking Stick|Leon Redbone||
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
-
+|My Rifle, Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
 
 
 
