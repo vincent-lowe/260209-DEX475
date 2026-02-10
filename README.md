@@ -57,6 +57,6 @@ Classroom Playlist
 |My Rifle, Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
 |City of New Orleans|Arlo Guthrie||
 |Just Breathe|Willie Nelson feat. Lukas Nelson|cover of Trent Reznor song|
-
+|Can't Find My Way Home|Bonnie Raitt|Steve Winwood cover|
 
 
