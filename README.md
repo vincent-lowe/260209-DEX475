@@ -4,6 +4,8 @@ Instructor Name: Vincent Lowe
 
 vlowe@salesforce.com
 
+API requirements to resources guide: https://docs.google.com/spreadsheets/d/15hmVgl6w-PVrOrYDfZYb4Jzzzpi3_oAucgdAzjb4-vY/edit?usp=sharing
+
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
 
